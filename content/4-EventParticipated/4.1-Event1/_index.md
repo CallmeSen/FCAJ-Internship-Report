@@ -135,3 +135,7 @@ Participating in the **"Cloud Architect"** event was a fun and useful experience
 - Competitive learning can make technical knowledge more memorable and motivating
 
 > Overall, the event helped me strengthen my AWS architecture foundation, practice teamwork, and understand how to make better technical decisions under pressure.
+
+### Event Photo
+
+[![Cloud Architect event](/FCAJ-Internship-Report/images/4-EventParticipated/Event-1.JPG)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-1.JPG)

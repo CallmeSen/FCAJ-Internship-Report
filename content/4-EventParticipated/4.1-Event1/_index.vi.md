@@ -135,3 +135,7 @@ Tham gia sự kiện **"Cloud Architect"** là một trải nghiệm vui và b�
 - Học bằng hình thức thi đấu giúp kiến thức kỹ thuật dễ nhớ và tạo động lực hơn
 
 > Tổng thể, sự kiện giúp tôi củng cố nền tảng AWS architecture, rèn luyện teamwork và hiểu cách đưa ra quyết định kỹ thuật tốt hơn dưới áp lực.
+
+### Hình ảnh sự kiện
+
+[![Sự kiện Cloud Architect](/FCAJ-Internship-Report/images/4-EventParticipated/Event-1.JPG)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-1.JPG)
