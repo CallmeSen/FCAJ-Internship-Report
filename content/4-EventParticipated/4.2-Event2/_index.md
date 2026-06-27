@@ -121,3 +121,7 @@ Watching **"FCAJ Community Day - June 2026"** was useful because it showed how t
 - For future projects, I want to combine technical practice with better communication, documentation, and teamwork
 
 > Overall, the event helped me see AI and cloud as practical tools that need strong data foundations, secure architecture, and collaboration between business and technical teams.
+
+### Event Photo
+
+[![FCAJ Community Day event](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)

@@ -121,3 +121,7 @@ Theo dõi **"FCAJ Community Day - June 2026"** là một trải nghiệm hữu �
 - Trong các project tiếp theo, tôi muốn kết hợp việc thực hành kỹ thuật với giao tiếp, viết tài liệu và teamwork tốt hơn
 
 > Tổng thể, sự kiện giúp tôi nhìn AI và cloud như các công cụ thực tiễn cần nền tảng dữ liệu vững chắc, kiến trúc an toàn và sự phối hợp giữa business và technical teams.
+
+### Hình ảnh sự kiện
+
+[![Sự kiện FCAJ Community Day](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)
