@@ -14,22 +14,17 @@ Phần này ghi lại nhật ký công việc trong 12 tuần thực tập. Mỗ
 
 **Tuần 2:** [Học WAF, CI/CD, serverless, Availability Zone, các lab AWS Study Group và FCAJ Community Day](1.2-week2/)
 
-**Tuần 3:** [Worklog Tuần 3](1.3-week3/)
+**Tuần 3:** [System design, AWS architecture, backend test bằng CodeBuild và tài liệu triển khai](1.3-week3/)
 
-**Tuần 4:** [Worklog Tuần 4](1.4-week4/)
+**Tuần 4:** [Rà soát frontend, authentication flow và kiểm tra AWS deployment](1.4-week4/)
 
-**Tuần 5:** [Worklog Tuần 5](1.5-week5/)
+**Tuần 5:** [Register/authentication, database migration, UI v2 và CodeBuild smoke pipeline](1.5-week5/)
 
-**Tuần 6:** [Worklog Tuần 6](1.6-week6/)
+**Tuần 6:** [Auction use cases, API integration, Lambda handlers và realtime bidding](1.6-week6/)
 
-**Tuần 7:** [Worklog Tuần 7](1.7-week7/)
+**Tuần 7:** [Infrastructure, frontend workflow, backend test, build artifact và Event 3](1.7-week7/)
 
-**Tuần 8:** [Worklog Tuần 8](1.8-week8/)
+**Tuần 8:** [Deployment checks, authentication, chat/realtime flow và serverless catalog](1.8-week8/)
 
 **Tuần 9:** [Worklog Tuần 9](1.9-week9/)
 
-**Tuần 10:** [Worklog Tuần 10](1.10-week10/)
-
-**Tuần 11:** [Worklog Tuần 11](1.11-week11/)
-
-**Tuần 12:** [Worklog Tuần 12](1.12-week12/)

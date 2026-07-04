@@ -14,22 +14,17 @@ This section records my internship worklog over 12 weeks. Each weekly page summa
 
 **Week 2:** [Learning WAF, CI/CD, serverless, Availability Zones, AWS Study Group labs, and FCAJ Community Day](1.2-week2/)
 
-**Week 3:** [Week 3 Worklog](1.3-week3/)
+**Week 3:** [System design, AWS architecture, CodeBuild backend tests, and deployment documentation](1.3-week3/)
 
-**Week 4:** [Week 4 Worklog](1.4-week4/)
+**Week 4:** [Frontend review, authentication flow, and AWS deployment checks](1.4-week4/)
 
-**Week 5:** [Week 5 Worklog](1.5-week5/)
+**Week 5:** [Register/authentication, database migration, UI v2, and CodeBuild smoke pipeline](1.5-week5/)
 
-**Week 6:** [Week 6 Worklog](1.6-week6/)
+**Week 6:** [Auction use cases, API integration, Lambda handlers, and realtime bidding](1.6-week6/)
 
-**Week 7:** [Week 7 Worklog](1.7-week7/)
+**Week 7:** [Infrastructure, frontend workflows, backend tests, build artifacts, and Event 3](1.7-week7/)
 
-**Week 8:** [Week 8 Worklog](1.8-week8/)
+**Week 8:** [Deployment checks, authentication, chat/realtime flows, and serverless catalog integration](1.8-week8/)
 
 **Week 9:** [Week 9 Worklog](1.9-week9/)
 
-**Week 10:** [Week 10 Worklog](1.10-week10/)
-
-**Week 11:** [Week 11 Worklog](1.11-week11/)
-
-**Week 12:** [Week 12 Worklog](1.12-week12/)
