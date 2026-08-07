@@ -26,5 +26,5 @@ Phần này ghi lại nhật ký công việc trong 12 tuần thực tập. Mỗ
 
 **Tuần 8:** [Deployment checks, authentication, chat/realtime flow và serverless catalog](1.8-week8/)
 
-**Tuần 9:** [Worklog Tuần 9](1.9-week9/)
+**Tuần 9:** [Tổng hợp báo cáo cuối kỳ, kiểm tra deployment và bàn giao Live Auction](1.9-week9/)
 

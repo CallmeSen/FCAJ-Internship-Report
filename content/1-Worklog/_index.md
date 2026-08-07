@@ -26,5 +26,5 @@ This section records my internship worklog over 12 weeks. Each weekly page summa
 
 **Week 8:** [Deployment checks, authentication, chat/realtime flows, and serverless catalog integration](1.8-week8/)
 
-**Week 9:** [Week 9 Worklog](1.9-week9/)
+**Week 9:** [Final report consolidation, deployment verification, and Live Auction handover](1.9-week9/)
 
