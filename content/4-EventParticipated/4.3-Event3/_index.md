@@ -96,3 +96,6 @@ Following **"AWS FCAJ Agent Forge - Deepdive"** was valuable because it connecte
 
 > Overall, this event helped me move from a basic understanding of AI assistants to a more practical and engineering-oriented view of agent development on AWS.
 
+### Event Photo
+
+[![AWS FCAJ Agent Forge check-in](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)

@@ -96,3 +96,6 @@ Theo dõi **"AWS FCAJ Agent Forge - Deepdive"** là trải nghiệm hữu ích v
 
 > Tổng thể, sự kiện giúp mình chuyển từ mức hiểu cơ bản về AI assistant sang góc nhìn thực tiễn và thiên về kỹ thuật hơn khi xây dựng AI agent trên AWS.
 
+### Hình ảnh check-in
+
+[![Ảnh check-in AWS FCAJ Agent Forge](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)
