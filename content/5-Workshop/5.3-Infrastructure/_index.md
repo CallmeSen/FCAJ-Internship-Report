@@ -6,8 +6,6 @@ chapter: false
 pre: "<b>5.3. </b>"
 ---
 
-# Infrastructure Provisioning with Terraform
-
 ## Introduction
 
 After preparing the development environment, the team provisions the infrastructure of the **Live Auction** system on **Amazon Web Services (AWS)** using **Terraform**.

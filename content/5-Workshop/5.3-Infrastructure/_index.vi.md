@@ -6,8 +6,6 @@ chapter: false
 pre: "<b>5.3. </b>"
 ---
 
-# Triển khai hạ tầng bằng Terraform
-
 ## Giới thiều
 
 Sau khi hoàn tất việc chuẩn bị môi trường, nhóm tiến hành triển khai hạ tầng của hệ thống **Live Auction** trên nền tảng **Amazon Web Services (AWS)** bằng **Terraform**.
