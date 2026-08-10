@@ -15,6 +15,7 @@ pre: " <b> 4.3. </b> "
 - **Attendance date:** Saturday, 01 August 2026, approximately 09:02–10:24 (UTC+7)
 - **Theory source:** [AWS FCAJ Agent Forge - Deepdive - YouTube](https://www.youtube.com/live/F58sam40jxk)
 - **Hands-on source:** [AgentForge - Ho Chi Min City](http://agentforge-hcmc-workshop-p371s08u.s3-website-ap-southeast-1.amazonaws.com/00-Overview/00-Dashboard-Overview.html)
+- **Registration / check-in:** [AWS FCAJ Agent Forge - Deepdive on Luma](https://luma.com/e/ticket/evt-O188dSz2Z4ahLAI?pk=g-NXbyLXvN9u2HPvc)
 - **Focus:** Agentic AI architecture, AWS service integration, and practical implementation workflow
 
 ### Speakers
@@ -94,5 +95,4 @@ Following **"AWS FCAJ Agent Forge - Deepdive"** was valuable because it connecte
 - I should strengthen documentation habits so workflows are reproducible and team-friendly
 
 > Overall, this event helped me move from a basic understanding of AI assistants to a more practical and engineering-oriented view of agent development on AWS.
-
 

@@ -15,6 +15,7 @@ pre: " <b> 4.3. </b> "
 - **Thời gian tham dự:** Thứ Bảy, 01/08/2026, khoảng 09:02–10:24 (UTC+7)
 - **Nguồn phần lý thuyết:** [AWS FCAJ Agent Forge - Deepdive - YouTube](https://www.youtube.com/live/F58sam40jxk)
 - **Nguồn phần thực hành:** [AgentForge - Ho Chi Min City](http://agentforge-hcmc-workshop-p371s08u.s3-website-ap-southeast-1.amazonaws.com/00-Overview/00-Dashboard-Overview.html)
+- **Link đăng ký / check-in:** [AWS FCAJ Agent Forge - Deepdive trên Luma](https://luma.com/e/ticket/evt-O188dSz2Z4ahLAI?pk=g-NXbyLXvN9u2HPvc)
 - **Trọng tâm:** Kiến trúc Agentic AI, tích hợp dịch vụ AWS và quy trình triển khai thực tế
 
 ### Diễn giả
@@ -94,5 +95,4 @@ Theo dõi **"AWS FCAJ Agent Forge - Deepdive"** là trải nghiệm hữu ích v
 - Cần cải thiện thói quen viết tài liệu để workflow dễ tái lập và thân thiện với làm việc nhóm
 
 > Tổng thể, sự kiện giúp mình chuyển từ mức hiểu cơ bản về AI assistant sang góc nhìn thực tiễn và thiên về kỹ thuật hơn khi xây dựng AI agent trên AWS.
-
 
