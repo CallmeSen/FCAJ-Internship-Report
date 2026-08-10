@@ -99,3 +99,5 @@ Theo dõi **"AWS FCAJ Agent Forge - Deepdive"** là trải nghiệm hữu ích v
 ### Hình ảnh check-in
 
 [![Ảnh check-in AWS FCAJ Agent Forge](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)
+
+[![Ảnh sự kiện AWS FCAJ Agent Forge](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.jpg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.jpg)

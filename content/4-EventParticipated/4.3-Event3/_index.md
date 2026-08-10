@@ -99,3 +99,5 @@ Following **"AWS FCAJ Agent Forge - Deepdive"** was valuable because it connecte
 ### Event Photo
 
 [![AWS FCAJ Agent Forge check-in](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.png)
+
+[![AWS FCAJ Agent Forge event photo](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.jpg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-3.jpg)
