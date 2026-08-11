@@ -124,4 +124,4 @@ Watching **"FCAJ Community Day - June 2026"** was useful because it showed how t
 
 ### Event Photo
 
-[![FCAJ Community Day event](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)
+[![FCAJ Community Day event](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpg)

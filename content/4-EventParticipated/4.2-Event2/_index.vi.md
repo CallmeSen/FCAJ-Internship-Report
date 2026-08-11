@@ -124,4 +124,4 @@ Theo dõi **"FCAJ Community Day - June 2026"** là một trải nghiệm hữu �
 
 ### Hình ảnh sự kiện
 
-[![Sự kiện FCAJ Community Day](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpeg)
+[![Sự kiện FCAJ Community Day](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpg)](/FCAJ-Internship-Report/images/4-EventParticipated/Event-2.jpg)
